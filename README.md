@@ -1,7 +1,7 @@
 # Tasks
 Tasks and notes
 
-[Captura-de-pantalla-140.png](https://postimg.cc/Cn86mdj9)
+[![Captura-de-pantalla-140.png](https://i.postimg.cc/X7Xdzwvc/Captura-de-pantalla-140.png)](https://postimg.cc/3d5ky0md)
 
 [![Captura-de-pantalla-141.png](https://i.postimg.cc/9X6sbCTn/Captura-de-pantalla-141.png)](https://postimg.cc/qgGmMf1s)
 
